@@ -1,0 +1,16 @@
+{
+  "name": "bare",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.40",
+    "babel-runtime": "^6.20.0",
+    "meteor-node-stubs": "~0.2.4"
+  },
+  "devDependencies": {
+    "chromedriver": "^2.35.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
